@@ -1,1 +1,1 @@
-A "Hibak" nevezető branchben ban a lényeg
+A "Hibak" nevezetű branchben van a lényeg
