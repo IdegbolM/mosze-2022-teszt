@@ -1,7 +1,0 @@
-A sorszámok az ererdeti kódhoz kapcsolódnak!
-A 7. sorban int* b lesz int *b helyett és N_ELEMENTS (_ volt kihagyva).
-Az első for ciklus határa és növekedési értéke javítva, a ciklusban lévő eltolódás javítva (b-1 lett) +
-a második ciklus felesleges --> az elsővel összefűzni a második lényegét, amihez az érték értékét hozzá kellett írni.
-A 8. sorban a stringet kellett segíteni a dupla aposztróffal ("").
-Sor végi pontosvesszők javítása: 8., 15., 21. sorokban.
-Az atlag-nak alapból kell egy kezdőértéket megadni (0).
