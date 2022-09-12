@@ -12,7 +12,7 @@ int main()
         std::cout << "Ertek:" << b[i - 1] << std::endl; //felesleges ciklus, az elsőbe beletenni a törzsöt, a konkrét érték kiíratása (b[i-1]) sortöréssel és pontosvessző a végére
     }
     std::cout << "Atlag szamitasa: " << std::endl;
-    int atlag = 0; //kezdőérték (0)
+    double atlag = 0; //kezdőérték (0) és az átlag miatt double legyen
     for (int i = 0; i < N_ELEMENTS, i++)
     {
         atlag += b[i];   //pontosvessző
